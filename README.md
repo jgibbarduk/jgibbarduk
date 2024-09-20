@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jgibbard.me.uk](https://www.jgibbard.me.uk)
 
-- 📝 I regularly write articles on [https://blog.jgibbard.me.uk](https://blog.jgibbard.me.uk)
+- 📝 I regularly write articles on [https://www.cloudbytes.uk](https://www.cloudbytes.uk)
 
 - 💬 Ask me about **AWS, Terraform, Ansible**
 
