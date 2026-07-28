@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Gibbard</h1>
 <h3 align="center">A techie engineering leader and architect from the UK</h3>
 
-- 🔭 I’m currently working on [Clearminutes](https://github.com/jgibbarduk/clearminutes]
+- 🔭 I’m currently working on [Clearminutes](https://github.com/jgibbarduk/clearminutes)
 
 - 👨‍💻 All of my projects are available at [https://www.jgibbard.me.uk](https://www.jgibbard.me.uk)
 
